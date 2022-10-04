@@ -49,6 +49,12 @@ body {
 	display: inline-block;
 	border: none;
 	width: 100%;
+	cursor: pointer;
+}
+
+.button:hover {
+	color: #fff !important;
+	background: #1f5cc5;
 }
 
 .mt-20 {
